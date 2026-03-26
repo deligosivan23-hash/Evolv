@@ -1,7 +1,6 @@
 [build]
-  base = "evolv"
   command = "npm run build"
-  publish = "dist"
+  publish = "evolv/dist"
 
 [[redirects]]
   from = "/*"
